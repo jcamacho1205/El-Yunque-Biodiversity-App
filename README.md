@@ -4,5 +4,7 @@ Unfinished Adobe XD application that organizes the wildlife and plant species th
 Human Computer Interaction Course 2020
 
 To view the prototype:
+
 https://xd.adobe.com/view/71e2b74f-5dc7-4ec8-7b1c-0d8875242e7e-07d3/
+
 Password: Hci2020course
